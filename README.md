@@ -3,6 +3,8 @@ My name is Ahmed. A beginner in CS. I took CS in my A-levels, and, now I am doin
 I'm currently learning Python, C++ and might start web-development aswell.
 I am open to learn anything since I am quite new, I have some existing knowledge from my A-level course, and I hope to further develop and polish my skills here.
 
+Edit: Did all that 
+
 
 
 <!--
